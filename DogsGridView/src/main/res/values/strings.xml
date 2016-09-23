@@ -1,0 +1,17 @@
+<resources>
+
+    <string-array name="Doglist">
+
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+
+    </string-array>
+
+    <string name="app_name">ListView2</string>
+</resources>
