@@ -1,0 +1,18 @@
+<resources>
+
+    <string-array  name="Avengers">
+
+        <item>Captain America</item>
+        <item>Hulk</item>
+        <item>Thor</item>
+        <item>Black Widow</item>
+        <item>Iron Man</item>
+        <item>Clint</item>
+        <item>Ultron</item>
+        <item>Vision</item>
+
+    </string-array>
+
+    <string name="app_name">Listview</string>
+
+</resources>
