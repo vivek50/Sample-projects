@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+    <string name="btnStart">Start</string>
+    <string name="SwitchCompact">Switch</string>
+    <string name="alertMessage">Task has been completed......
+                                Would you like to continue??</string>
+    <string name="alertTitle">Task Complete</string>
+    <string name="AlertPositive">OK</string>
+    <string name="AlertNegative">Exit</string>
+</resources>
