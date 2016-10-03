@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AsyncTask</string>
+    <string name="app_name">Bouncing Ball</string>
     <string name="btnStart">Start</string>
     <string name="SwitchCompact">Switch</string>
     <string name="alertMessage">Task has been completed......
