@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="btnSave">Save</string>
+    <string name="textSave">Click the Button to Save the File</string>
+</resources>
