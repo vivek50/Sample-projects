@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExternalStorage</string>
+    <string name="btnCheck">Click to Check!!!</string>
+</resources>
