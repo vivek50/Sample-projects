@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IntentFilters</string>
+    <string name="btnintent">Call</string>
+    <string name="txtintent">Welcome to IntentFilters</string>
+    <string name="btnDial">Dial</string>
+    <string name="btnCall">Call</string>
+    <string name="btnMap">Google Map</string>
+    <string name="btnCustom">Custom</string>
+    <string name="btnNews">Google News</string>
+    <string name="btnPlayStore">Google PlayStore</string>
+    <string name="btnGithub">Your Github</string>
+    <string name="btnMusic">Google Music</string>
+    <string name="btnWebsearch">Web Search</string>
+</resources>
