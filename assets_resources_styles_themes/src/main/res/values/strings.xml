@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Assets_Resources_Styles_Themes</string>
+
+    <string name="appHeader">Modi</string>
+    <string name="btnok">OK</string>
+    <string name="appHeader1">UserName</string>
+    <string name="appHeader2">Password</string>
+    <string name="btnLogin">Login</string>
+
+    <integer name="appVersion">1</integer>
+
+
+</resources>
