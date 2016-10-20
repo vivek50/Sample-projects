@@ -1,0 +1,9 @@
+{
+  "name" : "Android",
+  "cities" : ["Pune","Ahmendabad","Rajkot","Mumbai"],
+  "age" : 27,
+  "isIndian" : true,
+  "obj" : {
+    "pincode" : 360004
+  }
+}

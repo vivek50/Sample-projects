@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JSON</string>
+    <string name="jsonview">Welcome to an example of JSON</string>
+</resources>
